@@ -1,8 +1,8 @@
 {
   "profiles": {
-    "EvalutionBackEnd": {
+    "EvaluationBackEnd.Functions": {
       "commandName": "Project",
-      "commandLineArgs": "--port 7032",
+      "commandLineArgs": "--port 7166",
       "launchBrowser": false
     }
   }
